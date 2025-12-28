@@ -1,0 +1,5 @@
+print("Hello World!")
+print("My name is deepanshu and i am a beginner...")
+print("Deepanshu Aggarwal\n"*10)
+print(23)
+print(2123)
