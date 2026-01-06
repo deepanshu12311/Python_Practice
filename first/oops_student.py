@@ -33,3 +33,17 @@ class School:
 
 s1 = School("Deepanshu",[94,78,98])
 s1.avg()
+class bombay:
+    def __init__(self,name,marks):
+        self.name=name
+        self.marks=marks
+
+    def avv(self):
+        sum=0
+        for val in self.marks:
+            sum+=val
+        print("AVG of",self.name,"is",sum/3)
+
+s1 = bombay("Anuj", [12,12,13])
+s1.avv()
+        
