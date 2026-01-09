@@ -34,3 +34,8 @@ print(str4.count("eep"))
 #WAP to find the occurrence of '$' in a string.
 s = "my name $is $king $son $owl"
 print(s.count("$"))
+
+a= "python"
+print(a.upper())
+print(a.capitalize())
+print(a.center(20,"-"))
